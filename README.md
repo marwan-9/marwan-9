@@ -9,12 +9,12 @@
 - 👯 I’m looking to collaborate on <b>Web Development Projects</b>
 - 📫 Reach me at <a href =https://www.linkedin.com/in/marwan8/><b> LinkedIn</b></a>, or <a href="https://api.whatsapp.com/send/?phone=201272404140"><b>Whatsapp</b></a> 
 
-<h2 align="left">Skills</h2>
+<h3 align="left">Languages and Tools:</h3>
 <div align="center"></div>
 <a href="https://imgbb.com/"><img src="https://skills.thijs.gg/icons?i=js,html,css,wasm" width=100vw heigth=100vw  align="left"/></a>
 
  <br> <br>
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Progress Stats</h2>
 <div align="center"></div>
   
 ![LeetCode Stats](https://leetcode.card.workers.dev/Marwan0?theme=nord&font=baloo&extension=null)
