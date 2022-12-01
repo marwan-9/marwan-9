@@ -14,7 +14,7 @@
 <a href="https://imgbb.com/"><img src="https://skills.thijs.gg/icons?i=js,html,css,wasm" width=100vw heigth=100vw  align="left"/></a>
 
  <br> <br>
-<h2 align="center">Progress Stats</h2>
+<h2 align="center">Languages and Tools:</h2>
 <div align="center"></div>
   
 ![LeetCode Stats](https://leetcode.card.workers.dev/Marwan0?theme=nord&font=baloo&extension=null)
