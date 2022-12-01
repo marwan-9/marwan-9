@@ -6,7 +6,7 @@
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DYJVRfY/aaa.png" width=200vw heigth=200vw  style="float:right;"/></a>
 
-<p style="float:left; display:inline">
+<p style="float:left">
 - 🔭 I’m currently working on ... <br>
 - 🌱 I’m currently learning ...<br>
 - 👯 I’m looking to collaborate on ...<br>
