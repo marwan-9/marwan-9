@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on <b>Web Development Projects</b>
 - 📫 Reach me at <a href =https://www.linkedin.com/in/marwan8/><b> LinkedIn</b></a>, or <a href="https://api.whatsapp.com/send/?phone=201272404140"><b>Whatsapp</b></a> 
 
- <br> <br>
+ <br>
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 <a href="https://imgbb.com/"><img src="https://skills.thijs.gg/icons?i=html,css,react,js,ts,nodejs,php,mysql,c,cpp,cs,java,github,git,linux" align="left"/></a>
