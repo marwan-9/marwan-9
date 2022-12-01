@@ -12,7 +12,8 @@
 
 <h3 align="left">Skills</h2>
 <div align="left">
-  
+
+ <br>
 <a href="https://imgbb.com/"><img src="https://skills.thijs.gg/icons?i=js,html,css,wasm" width=100vw heigth=100vw  align="left"/></a>
 
 <h2 align="center">Progress Stats</h2>
