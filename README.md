@@ -15,5 +15,5 @@
 - ⚡ Fun fact: ...
 
 </p>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/DYJVRfY/aaa.png" width=200vw heigth=200vw  style="display:inline"/></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DYJVRfY/aaa.png" width=200vw heigth=200vw  style="float:left; display:inline"/></a>
 
