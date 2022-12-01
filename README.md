@@ -11,6 +11,7 @@
 
  <br> <br> <br> <br>
 <h3 align="center">Skills</h2>
+<div align="center">
 <a href="https://imgbb.com/"><img src="https://skills.thijs.gg/icons?i=js,html,css,wasm" width=100vw heigth=100vw  align="left"/></a>
 
  <br> <br>
