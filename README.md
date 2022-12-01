@@ -19,5 +19,6 @@
 <h2 align="center"> Progress Stats </h2>
 <div align="center">
 
-![LeetCode Stats](https://leetcode.card.workers.dev/marwan0?theme=nord&font=baloo&extension=null)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwan-9&theme=github_dark&show_icons=true)
+<br>
+![LeetCode Stats](https://leetcode.card.workers.dev/marwan0?theme=nord&font=baloo&extension=null)
