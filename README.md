@@ -11,7 +11,7 @@
 
 
 
-<a href="https://imgbb.com/"><img src="https://skills.thijs.gg/icons?i=js,html,css,wasm" width=200vw heigth=200vw  align="right"/></a>
+<a href="https://imgbb.com/"><img src="https://skills.thijs.gg/icons?i=js,html,css,wasm" width=100vw heigth=100vw  align="right"/></a>
 
 <br><br><br>
 <h2 align="center">Progress Stats</h2>
