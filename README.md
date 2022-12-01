@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-<img src="https://skills.thijs.gg/icons?i=html,css,react,js,ts,nodejs,php,mysql,c,cpp,cs,java,github" align="left"/>
+<img src="https://skills.thijs.gg/icons?i=html,css,react,js,ts,nodejs,php,mysql,c,cpp,cs,java,github,git,linux" align="left"/>
 </div>
 <br><br>
 
