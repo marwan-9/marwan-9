@@ -1,8 +1,4 @@
-# Hey, I am Marwan 👋
-
-<!--
-**Marwan-9/marwan-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Hey there, I'm Marwan 👋
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DYJVRfY/aaa.png" width=200vw heigth=200vw  align="right"/></a>
 
