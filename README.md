@@ -1,6 +1,6 @@
 # Hey there, I'm Marwan 👋
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/DYJVRfY/aaa.png" width=200vw heigth=200vw  align="right"/></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DYJVRfY/aaa.png" width=175vw heigth=175vw  align="right"/></a>
 
 
 - 💻 I’m a computer engineering undergraduate at <b>Cairo Universty</b> 
@@ -17,7 +17,7 @@
 <div align="center">
 <img src="https://skills.thijs.gg/icons?i=html,css,react,js,ts,nodejs,php,mysql,c,cpp,cs,java,github,git,linux" align="left"/>
 </div>
-
+<br><br>
 
 <h2 align="center"> Progress Stats </h2>
 <div align="center">
