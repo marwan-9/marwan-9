@@ -8,8 +8,9 @@
 - 🌱 I’m currently learning about <b>Algorithm Design and Analysis</b>
 - 💬 Ask me anything related to <b>OOP and Web Development</b>
 - 👯 I’m looking to collaborate on <b>Web Development Projects</b>
+- 👨‍💻 Currently working on <b>Operating Systems and Database Projects</b>
 - 📫 Reach me at <a href =https://www.linkedin.com/in/marwan8/><b> LinkedIn</b></a>, or <a href="https://api.whatsapp.com/send/?phone=201272404140"><b>Whatsapp</b></a> 
-- 👨‍💻 I’m looking to collaborate on <b>Web Development Projects</b>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
