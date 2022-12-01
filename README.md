@@ -10,7 +10,8 @@
 - 📫 Reach me at <a href =https://www.linkedin.com/in/marwan8/> LinkedIn</a>, or <a href="https://api.whatsapp.com/send/?phone=201272404140">Whatsapp</a> 
 
 
+<br><br>
 <h2 align="center">Some Stats</h2>
 <div align="center">
   
-[![LeetCode Stats](https://leetcode.card.workers.dev/Marwan0?theme=nord&font=baloo&extension=null)]
+![LeetCode Stats](https://leetcode.card.workers.dev/Marwan0?theme=nord&font=baloo&extension=null)
