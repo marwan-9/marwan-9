@@ -9,8 +9,7 @@
 - 👯 I’m looking to collaborate on <b>Web Development Projects</b>
 - 📫 Reach me at <a href =https://www.linkedin.com/in/marwan8/><b> LinkedIn</b></a>, or <a href="https://api.whatsapp.com/send/?phone=201272404140"><b>Whatsapp</b></a> 
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
-
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width=200vw heigth=200vw  align="right"/>
 <br><br><br>
 <h2 align="center">Progress Stats</h2>
 <div align="center">
