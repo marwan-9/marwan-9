@@ -3,8 +3,7 @@
 <!--
 **Marwan-9/marwan-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/b6jpRgS/5f8c3e0dad32a3c2991b6b73ca168214df6a35404f35f4ef6ff5a46a76624785-0.png" alt="5f8c3e0dad32a3c2991b6b73ca168214df6a35404f35f4ef6ff5a46a76624785-0" border="0" /></a>
-Here are some ideas to get you started:
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/BrCSjnQ/aaaa.png" alt="aaaa" border="0" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
