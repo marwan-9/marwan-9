@@ -17,4 +17,3 @@
 <h2 align="center">Progress Stats</h2>
 <div align="center">
 ![LeetCode Stats](https://leetcode.card.workers.dev/Marwan0?theme=nord&font=baloo&extension=null)
-</div>
