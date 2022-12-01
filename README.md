@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-<a href="https://imgbb.com/"><img src="https://skills.thijs.gg/icons?i=html,css,js,ts,nodejs,java,php,mysql,c,cpp,cs,github" align="left"/></a>
+<a href="https://imgbb.com/"><img src="https://skills.thijs.gg/icons?i=html,css,js,ts,nodejs,java,php,mysql,c,cpp,cs,github,ass" align="left"/></a>
 
  <br> <br>
 <h2 align="center"> Progress Stats </h2>
