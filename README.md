@@ -24,5 +24,6 @@
 
 
 [![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwan-9&theme=github_dark&show_icons=true)](https://github.com/marwan-9)
+<br><br>
 [![Marwan's Leetcode Stats](https://leetcode.card.workers.dev/marwan0?theme=nord&font=baloo&extension=null)](https://leetcode.com/marwan0)
  </div>
