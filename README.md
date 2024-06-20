@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on <b>Web Development Projects</b>
 - 📫 Reach me at <a href =https://www.linkedin.com/in/marwan9/><b> LinkedIn</b></a>, or <a href="https://api.whatsapp.com/send/?phone=201272404140"><b>Whatsapp</b></a> 
 
-<h3 align="left">Languages and Tools:</h3>
+<!--- <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 <img src="https://skills.thijs.gg/icons?i=html,css,react,js,ts,nodejs,php,mysql,c,cpp,cs,java,github,git,linux" align="left"/>
 </div>
@@ -18,4 +18,4 @@
 
 
 %[![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwan-9&theme=github_dark&show_icons=true&env=PAT_1)](https://github.com/marwan-9)
-%[![Marwan's Leetcode Stats](https://leetcode.card.workers.dev/marwan0?theme=nord&font=baloo&extension=null)](https://leetcode.com/marwan0)
+%[![Marwan's Leetcode Stats](https://leetcode.card.workers.dev/marwan0?theme=nord&font=baloo&extension=null)](https://leetcode.com/marwan0)--->
